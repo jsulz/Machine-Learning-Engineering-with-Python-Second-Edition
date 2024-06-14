@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/dev/Machine-Learning-Engineering-with-Python-Second-Edition/Chapter01/forecasting/mlruns/0/07e25cc37aa54ca58d080a4f34302333/artifacts
+end_time: 1718383025460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e25cc37aa54ca58d080a4f34302333
+run_name: flawless-shrew-484
+run_uuid: 07e25cc37aa54ca58d080a4f34302333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718383025382
+status: 4
+tags: []
+user_id: jared

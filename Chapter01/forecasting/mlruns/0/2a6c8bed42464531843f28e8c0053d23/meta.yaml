@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/dev/Machine-Learning-Engineering-with-Python-Second-Edition/Chapter01/forecasting/mlruns/0/2a6c8bed42464531843f28e8c0053d23/artifacts
+end_time: 1718383107380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a6c8bed42464531843f28e8c0053d23
+run_name: rare-seal-82
+run_uuid: 2a6c8bed42464531843f28e8c0053d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718383107302
+status: 4
+tags: []
+user_id: jared

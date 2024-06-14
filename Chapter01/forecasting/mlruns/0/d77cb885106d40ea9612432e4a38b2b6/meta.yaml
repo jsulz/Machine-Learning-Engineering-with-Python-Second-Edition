@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/dev/Machine-Learning-Engineering-with-Python-Second-Edition/Chapter01/forecasting/mlruns/0/d77cb885106d40ea9612432e4a38b2b6/artifacts
+end_time: 1718383061397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d77cb885106d40ea9612432e4a38b2b6
+run_name: merciful-hare-651
+run_uuid: d77cb885106d40ea9612432e4a38b2b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718383061321
+status: 4
+tags: []
+user_id: jared
