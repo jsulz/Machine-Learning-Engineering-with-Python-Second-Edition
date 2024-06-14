@@ -4,9 +4,8 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
+
     strategy:
       matrix:
         python-version: ["3.9", "3.10"]
@@ -31,7 +30,7 @@ jobs:
           # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
         working-directory: Chapter02
-      - name: Test with pytest
+      - name: Testing with pytest
         run: |
           pytest
         working-directory: Chapter02
